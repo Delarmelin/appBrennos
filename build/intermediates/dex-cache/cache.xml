@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/okio-1.13.0_816001143b9f75c69fa9732aa0e30dfd011b8a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.1/e2a00ad1d7e540ec395e9296a34da484c8888d4d/jackson-core-2.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.1_271d7696b671ccd10d423e17eab2ee0f3dde5b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_f35e734c56f6e0b68c28f05cb1a0e0457fd92bbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_2b5bab524b1a1e56d481091a97d19fb7c4c32c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare/1.3.6/2e059622d3d37758b0f8022fd678de02b025cbe8/logansquare-1.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e059622d3d37758b0f8022fd678de02b025cbe8">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/logansquare-1.3.6_d8d5913adb60086c69f1792add2759d1a7652e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.android/build-cache/c63c9c9349a4709db79497aa082c831195c5b61d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/classes_377a6edf3c1459da1d3697f1d9aaf2408766972f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.9/90a1d1effa99070aa6325918f05dd2bad1704b/parceler-api-1.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0090a1d1effa99070aa6325918f05dd2bad1704b">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.9_1de734ddd85f7fc73dc89af2c8c0e92b76af68a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.android/build-cache/3244894cd48abab9e2ff2d771e669772ce723096/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/classes_8e6a9034143a030657aa3498366ebb4c29788164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.android/build-cache/f743cc80f89dc23fc3a31ab872c2c6db686a4087/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/classes_163cb3df394dc966547a7dfb29588f8fa01f56f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vaguinho/.android/build-cache/3f8c57ecb78c410a9be580221956321e4e7757f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/vaguinho/Documentos/BrennosBar/app/build/intermediates/pre-dexed/debug/classes_a28419e3e895fc79c806ced8ec8b38f85df5b31f.jar" />
+    </item>
+
+</items>
